@@ -329,13 +329,13 @@ Backend Development
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:mostafa.za73@gmail.com">
 <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-> اگر ایمیلت را نمی‌خواهی نمایش بدهی، فقط دکمه GitHub را نگه دار.
+
 
 ---
 
