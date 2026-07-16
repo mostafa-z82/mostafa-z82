@@ -196,14 +196,7 @@ even as they grow.
 
 ---
 
-# 🚀 Featured Projects
 
-> پروژه‌های زیر را بعداً با لینک ریپازیتوری‌های واقعی خودت جایگزین کن.
-
-<table>
-<tr>
-
-<td width="50%">
 
 ### 🏦 Clean Architecture API
 
