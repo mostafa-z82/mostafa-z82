@@ -1,97 +1,99 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Mostafa%20Zakariazadeh&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn&desc=C%23%20Backend%20Developer&descAlignY=62"/>
+  <h1 style="font-size: 3.8rem; font-weight: 800; background: linear-gradient(90deg, #a855f7, #22d3ee, #a855f7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 8px;">
+    Mostafa Zakariazadeh
+  </h1>
+  <p style="font-size: 1.6rem; color: #67e8f9; letter-spacing: 1px; margin: 0;">
+    C# Backend Developer
+  </p>
+  <p style="color: #c4d0ff; font-family: 'Segoe UI', sans-serif; margin-top: 10px;">
+    Crafting High-Performance Systems • mostafa.z82
+  </p>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=1000&color=A855F7&center=true&vCenter=true&width=880&lines=C%23+Backend+Developer;Building+Scalable+High-Performance+Systems;Clean+Architecture+%E2%9D%A4%EF%B8%8F;Performance+%26+Quality+First;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<br>
+<br><br>
 
 ---
 
-## 👨‍💻 Who Am I?
+<div style="background: rgba(30, 30, 60, 0.4); backdrop-filter: blur(16px); border: 1px solid rgba(167, 139, 250, 0.3); border-radius: 24px; padding: 35px; margin: 25px 0;">
 
-I'm a **C# Backend Developer** passionate about building **robust, scalable, and maintainable** systems using modern Microsoft technologies.
-
-I believe in writing clean, performant code that stands the test of time.
-
-### What I Love Working With
-- ⭐ High Performance APIs
-- 🏛️ Clean Architecture
-- 🔐 Authentication & Security
-- 📦 Modular Design
-- 📊 Database Optimization
-- 🚀 Scalable & Distributed Systems
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,git,github,docker,kubernetes,redis,postgres&perline=8" alt="Tech Stack"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <h2 style="color: #e0e7ff; text-align: center; margin-top: 0;">👋 About Me</h2>
+  
+  <p style="font-size: 1.15rem; line-height: 1.85; color: #cbd5e1; text-align: center;">
+    Backend engineer with a passion for building <strong>scalable, maintainable, and high-performance</strong> systems. 
+    I focus on writing clean code that solves real problems and stands the test of time.
+  </p>
 </div>
 
 ---
 
-## 📊 Skills Matrix
+### ✨ What I Excel At
 
-| Category              | Technologies |
-|-----------------------|--------------|
-| **Languages**         | C#, SQL, T-SQL |
-| **Backend**           | ASP.NET Core, .NET 8, REST APIs, Minimal APIs |
-| **Architecture**      | Clean Architecture, DDD, CQRS, Repository Pattern |
-| **Database**          | SQL Server, Entity Framework Core, Dapper |
-| **Security**          | JWT, Identity, OAuth2, Role-Based Access |
-| **DevOps**            | Docker, GitHub Actions, CI/CD |
-| **Tools**             | Visual Studio, Postman, Git, Redis |
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 18px; margin: 25px 0;">
 
----
+  <div style="background: rgba(30, 30, 60, 0.35); backdrop-filter: blur(12px); border: 1px solid rgba(167, 139, 250, 0.25); border-radius: 18px; padding: 22px;">
+    <h3 style="color: #c4d0ff;">🚀 High Performance APIs</h3>
+  </div>
+  <div style="background: rgba(30, 30, 60, 0.35); backdrop-filter: blur(12px); border: 1px solid rgba(167, 139, 250, 0.25); border-radius: 18px; padding: 22px;">
+    <h3 style="color: #c4d0ff;">🏗️ Clean Architecture</h3>
+  </div>
+  <div style="background: rgba(30, 30, 60, 0.35); backdrop-filter: blur(12px); border: 1px solid rgba(167, 139, 250, 0.25); border-radius: 18px; padding: 22px;">
+    <h3 style="color: #c4d0ff;">🔐 Security & Authentication</h3>
+  </div>
+  <div style="background: rgba(30, 30, 60, 0.35); backdrop-filter: blur(12px); border: 1px solid rgba(167, 139, 250, 0.25); border-radius: 18px; padding: 22px;">
+    <h3 style="color: #c4d0ff;">📈 Database Optimization</h3>
+  </div>
 
-## 🚀 Currently Working On
-
-- **NextGen SaaS Platform** — Scalable cloud-based application
-- **Design & Code Toolkit** — Streamlined development resources
-- **AI-Powered Automation Service** — Intelligent process automation
-
----
-
-## 🎯 2026 Goals
-
-- Build and publish more Open Source projects
-- Master Microservices & Event-Driven Architecture
-- Deep dive into Kubernetes and Cloud-Native
-- Contribute more to the community
-- Improve mentoring and knowledge sharing
+</div>
 
 ---
 
-## 🤝 Connect With Me
+### 🛠️ Core Technologies
 
-<div align="center">
+<div style="background: rgba(30, 30, 60, 0.4); backdrop-filter: blur(16px); border: 1px solid rgba(167, 139, 250, 0.3); border-radius: 24px; padding: 30px; text-align: center;">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,git,docker,kubernetes,postgres,redis&perline=8" style="margin: 10px 0;"/>
+</div>
+
+---
+
+### 🚀 Currently Building
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
+
+  <div style="background: rgba(139, 92, 246, 0.1); border: 1px solid #a855f7; border-radius: 16px; padding: 20px; width: 300px;">
+    <strong>NextGen SaaS Platform</strong><br>
+    <span style="color: #94a3b8;">Scalable cloud-native solution</span>
+  </div>
+
+  <div style="background: rgba(139, 92, 246, 0.1); border: 1px solid #a855f7; border-radius: 16px; padding: 20px; width: 300px;">
+    <strong>AI-Powered Automation</strong><br>
+    <span style="color: #94a3b8;">Intelligent workflow engine</span>
+  </div>
+
+</div>
+
+---
+
+### 💡 My Philosophy
+
+> Simplicity is the ultimate sophistication.<br>
+> Code with purpose. Design with vision.
+
+---
+
+### 🤝 Open for Collaboration
+
+<div align="center" style="margin: 40px 0;">
+  <p style="color: #c4d0ff; font-size: 1.2rem;">
+    I'm always interested in challenging backend projects, architecture discussions, and meaningful collaborations.
+  </p>
+  
   <a href="https://github.com/mostafa.z82">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mostafa.za73@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="52"/>
   </a>
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
-  <p><strong>Thanks for visiting my profile! ✨</strong></p>
+  <p style="color: #64748b; font-size: 0.95rem;">
+    Reach out via GitHub or LinkedIn
+  </p>
 </div>
