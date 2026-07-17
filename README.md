@@ -38,7 +38,7 @@ even as they grow.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,redis,postman,html,css&perline=8"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,redis,postman,html,css&perline=10"/>
 
 </div>
 
