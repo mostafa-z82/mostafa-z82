@@ -25,6 +25,8 @@
 ```csharp
 public class MostafaZakariazadeh
 {
+    public string Name => "Mostafa Zakariazadeh";
+
     public string Role => "Backend Developer";
 
     public string[] Technologies =>
@@ -32,19 +34,31 @@ public class MostafaZakariazadeh
         "C#",
         ".NET",
         "ASP.NET Core",
-        "SQL Server",
         "Entity Framework Core",
-        "REST API"
+        "SQL Server",
+        "REST API",
+        "Docker",
+        "Git"
+    ];
+
+    public string[] CurrentlyLearning =>
+    [
+        "Microservices",
+        "RabbitMQ",
+        "Redis",
+        "Azure"
     ];
 
     public string Philosophy =>
-        "Building scalable and maintainable systems.";
+        "Building scalable, maintainable and high-performance systems.";
 
     public string CurrentFocus =>
         "Clean Architecture & High Performance APIs";
+
+    public string FunFact =>
+        "I enjoy turning complex problems into simple solutions.";
 }
 ```
-
 ---
 
 ## 🚀 Who Am I?
