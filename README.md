@@ -74,24 +74,6 @@ even as they grow.
 
 ---
 
-# 💡 Developer Philosophy
-
-> **Good software isn't just code.**
->
-> It's architecture, maintainability, scalability, and simplicity working together.
-
----
-
-# 📚 Currently Learning
-
-- 🚀 .NET 9
-- ☁ Cloud Computing
-- 🐳 Docker
-- ⚡ Performance Optimization
-- 🧩 Microservices
-
----
-
 # 🎯 2026 Goals
 
 - ✅ Build more Open Source projects
