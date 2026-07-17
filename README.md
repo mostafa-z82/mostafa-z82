@@ -15,26 +15,15 @@
 ---
 
 
-## ?? Who Am I?
+## 💙 Who Am I?
 
-I'm a Backend Developer focused on building robust, scalable,
-and maintainable software solutions using modern Microsoft technologies.
+I'm a Backend Developer Focused On Building ROBUST, Scalable,
+And Maintainable Software Solutions Using Modern Microsoft Technologies.
 
-I enjoy designing systems that remain clean and understandable
-even as they grow.
-
-### What I Love
-
-- ? High Performance APIs
-- ?? Clean Architecture
-- ?? Authentication & Security
-- ?? Modular Design
-- ?? Database Optimization
-- ?? Scalable Systems
-
----
-
-# ?? Tech Stack
+I Enjoy Designing Systems That Remain Clean And Understandable
+Even As They GROW.
+----
+# 🚀 Tech Stack
 
 <div align="center">
 
@@ -60,32 +49,33 @@ even as they grow.
 
 ---
 
-# ?? Skills Matrix
+# 💼 Skills Matrix
 
 | Category | Technologies |
 |----------|--------------|
-| ?? Languages | C#, SQL |
-| ?? Backend | ASP.NET Core, .NET 8, REST API |
-| ?? Database | SQL Server, Entity Framework Core |
-| ?? Architecture | Clean Architecture, Repository Pattern, Dependency Injection |
-| ?? Security | JWT Authentication, Identity |
-| ?? DevOps | Docker, GitHub Actions |
-| ?? Tools | Visual Studio, VS Code, Git, GitHub, Postman |
+| 💻 Languages | C#, SQL |
+| ⚙️ Backend | ASP.NET Core, .NET 8, REST API |
+| 🗄 Database | SQL Server, Entity Framework Core |
+| 🏗 Architecture | Clean Architecture, Repository Pattern, Dependency Injection |
+| 🔐 Security | JWT Authentication, Identity |
+| 🐳 DevOps | Docker, GitHub Actions |
+| 🛠 Tools | Visual Studio, VS Code, Git, GitHub, Postman |
 
 ---
 
-# ?? 2026 Goals
+# 🎯 2026 Goals
 
-- ? Build more Open Source projects
-- ? Master Microservices Architecture
-- ? Learn Kubernetes
-- ? Improve Cloud Skills
-- ? Share knowledge through GitHub
+- ✅ Build more Open Source projects
+- ✅ Master Microservices Architecture
+- ✅ Learn Kubernetes
+- ✅ Improve Cloud Skills
+- ✅ Share knowledge through GitHub
+
 
 ---
 
 
-# ?? Connect
+# 🌍 Connect
 
 <div align="center">
 
