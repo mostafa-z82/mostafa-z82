@@ -93,7 +93,7 @@ Even As They GROW.
 
 <div align="center">
 
-### Thanks for visiting ??
+### Thanks for visiting 💙
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,50:3B82F6,100:60A5FA"/>
 
