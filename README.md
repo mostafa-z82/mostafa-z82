@@ -27,7 +27,7 @@ Even As They GROW.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,redis,postman,html,css&perline=10"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,postman,html,css&perline=10"/>
 
 </div>
 
