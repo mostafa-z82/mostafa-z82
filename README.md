@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=Backend+Developer👨‍💻;Building+Scalable+REST+APIs🚀;C%23+%7C+.NET+Core+%7C+SQL+Server🌐;Clean+Architecture+Enthusiast;Performance+First⚡;Always+Learning+Something+New+%F0%9F%9A%80♾️"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=Backend+Developer👨‍💻;Building+Scalable+REST+APIs🚀;C%23+%7C+.NET+Core+%7C+SQL+Server🌐;Clean+Architecture+Enthusiast;Performance+First+⚡;Always+Learning+Something+New+♾️"/>
 
 </div>
 
